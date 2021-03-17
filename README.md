@@ -1,5 +1,5 @@
 # ROB 3203 Course Project
-# SDV w/ Camera
+## SDV w/ Camera
 
 <!-- TABLE OF CONTENTS -->
 <details open="open">
